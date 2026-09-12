@@ -1,3 +1,5 @@
-# greenery
+# Greenery
 
-Private contribution tracking repository.
+A personal contribution tracker project.
+
+Built with love.
